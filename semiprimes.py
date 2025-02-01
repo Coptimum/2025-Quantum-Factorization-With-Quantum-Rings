@@ -1,3 +1,5 @@
+# Ducky test
+
 semiprimes = {
     8: 143,
     10: 899,
