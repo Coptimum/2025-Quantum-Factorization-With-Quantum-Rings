@@ -3,8 +3,6 @@
 Sponsored by
 ![Quantum Rings](./images/quantum-rings-logo.png)
 
-# YOOOOOOOOOOOOOOOOOOOOO
-
 ## Overview
 
 Shor's algorithm revolutionized our understanding of computational power, proving that quantum computers could solve problems far beyond the reach of classical systems. Now, in a space where innovation meets legacy—the halls of MIT, where Professor Shor himself still walks—we invite you to push the boundaries of quantum computing.
